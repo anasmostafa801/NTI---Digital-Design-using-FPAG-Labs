@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab5
+vDEMUX
+!s110 1784144091
+!i10b 1
+!s100 HTC4f0L2cI;O`EobFf[1]3
+ISKWF?[c6gnfoJo0:WRJSl3
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1784144048
+8C:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab5/DEMUX.V
+FC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab5/DEMUX.V
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1784144091.000000
+!s107 C:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab5/DEMUX.V|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab5/DEMUX.V|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
+n@d@e@m@u@x
