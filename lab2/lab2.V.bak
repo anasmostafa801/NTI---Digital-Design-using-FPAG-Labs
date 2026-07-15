@@ -1,0 +1,17 @@
+module lab2 (
+    input wire [1:0] a, b,
+    input wire sel,
+    output wire [1:0] y
+);
+
+wire w0, w1, w2, w3;
+
+and G0 (w0, ~sel, a[0]),
+    G1 (w1,  sel, b[0]);
+or  out1 (y[0], w0, w1);
+
+and G2 (w2, ~sel, a[1]),
+    G3 (w3,  sel, b[1]);
+or out2 (y[1], w2, w3);
+
+endmodule

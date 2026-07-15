@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/NTI_FPGA
+vlab2
+!s110 1783974369
+!i10b 1
+!s100 cUdG[^kC]DjPKic;V9C>^1
+IzU;V]BSZ2U_SoN7K2n=;B1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/user/Desktop/NTI_FPGA/lab2
+w1783974360
+8C:/Users/user/Desktop/NTI_FPGA/lab2/lab2.V
+FC:/Users/user/Desktop/NTI_FPGA/lab2/lab2.V
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1783974369.000000
+!s107 C:/Users/user/Desktop/NTI_FPGA/lab2/lab2.V|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/NTI_FPGA/lab2/lab2.V|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0

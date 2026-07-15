@@ -1,0 +1,53 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_10.7c/examples
+vlab1
+!s110 1783972956
+!i10b 1
+!s100 zg5DT]A=]9I_i`5jff>QR2
+In_MNUFKHC[ZmmBz004B9e2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/user/Desktop/NTI_FPGA
+w1783972946
+Z2 8C:/Users/user/Desktop/NTI_FPGA/lab1.V
+Z3 FC:/Users/user/Desktop/NTI_FPGA/lab1.V
+L0 1
+Z4 OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1783972956.000000
+!s107 C:/Users/user/Desktop/NTI_FPGA/lab1.V|
+Z5 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/NTI_FPGA/lab1.V|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z7 tCvgOpt 0
+vlab1_mux2x1_2bitWide
+!s110 1783973003
+!i10b 1
+!s100 l;I5;84;RVP<g0J@G[Rdj0
+I;QXGaMKba?1NV[]O7`eBl0
+R0
+R1
+w1783972985
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+!s108 1783973003.000000
+Z8 !s107 C:/Users/user/Desktop/NTI_FPGA/lab1.V|
+R5
+!i113 0
+R6
+R7
+nlab1_mux2x1_2bit@wide

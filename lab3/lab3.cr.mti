@@ -1,0 +1,15 @@
+C:/Users/user/Desktop/NTI_FPGA/lab3/Foure_BIt_Adder.V {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/NTI_FPGA/lab3/Foure_BIt_Adder.V
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module Four_Bit_Adder
+
+Top level modules:
+	Four_Bit_Adder
+
+} {} {}} C:/Users/user/Desktop/NTI_FPGA/lab3/FA.V {1 {vlog -work work -vopt -stats=none C:/Users/user/Desktop/NTI_FPGA/lab3/FA.V
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}}

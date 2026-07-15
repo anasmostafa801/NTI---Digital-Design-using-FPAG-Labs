@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/NTI_FPGA/lab2
+vFA
+Z0 !s110 1783975526
+!i10b 1
+!s100 N7O^Y_IFV<:VDoG^[_cd?0
+I91YUa:hHfj0hEJ_[gm@hn3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/NTI_FPGA/lab3
+w1783975497
+8C:/Users/user/Desktop/NTI_FPGA/lab3/FA.V
+FC:/Users/user/Desktop/NTI_FPGA/lab3/FA.V
+L0 1
+Z3 OL;L;10.7c;67
+r1
+!s85 0
+31
+Z4 !s108 1783975526.000000
+!s107 C:/Users/user/Desktop/NTI_FPGA/lab3/FA.V|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/NTI_FPGA/lab3/FA.V|
+!i113 0
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z6 tCvgOpt 0
+n@f@a
+vFour_Bit_Adder
+R0
+!i10b 1
+!s100 I65`KJX9JAXU067:Y0W_h1
+IHkWUo70lJ48DVDNc3:RF@3
+R1
+R2
+w1783975440
+8C:/Users/user/Desktop/NTI_FPGA/lab3/Foure_BIt_Adder.V
+FC:/Users/user/Desktop/NTI_FPGA/lab3/Foure_BIt_Adder.V
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/NTI_FPGA/lab3/Foure_BIt_Adder.V|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/user/Desktop/NTI_FPGA/lab3/Foure_BIt_Adder.V|
+!i113 0
+R5
+R6
+n@four_@bit_@adder
