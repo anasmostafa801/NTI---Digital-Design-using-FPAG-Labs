@@ -8,6 +8,15 @@ z2
 !i10f 100
 cModel Technology
 Z0 dC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab6
+T_opt
+!s110 1784146192
+VCoUol1i@dAO15aGBEPBE20
+04 7 4 work Encoder fast 0
+=1-1cc10cbce035-6a57e90f-31b-fe0
+o-quiet -auto_acc_if_foreign -work work -debugdb
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.7c;67
 vEncoder
 !s110 1784146091
 !i10b 1
@@ -28,5 +37,5 @@ r1
 !s90 Encoder.V|
 !i113 0
 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
-tCvgOpt 0
+R1
 n@encoder
