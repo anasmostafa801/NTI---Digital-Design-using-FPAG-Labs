@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab 8- Serial to Parallel
+vDUT
+!s110 1784231956
+!i10b 1
+!s100 gHCPSR_5OKmZc5obDQIR_2
+IHC2LlNdcEXQ1E63295`lW0
+VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1784231949
+8DUT.V
+FDUT.V
+L0 1
+OL;L;10.7c;67
+r1
+!s85 0
+31
+!s108 1784231956.000000
+!s107 DUT.V|
+!s90 DUT.V|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0
+n@d@u@t
