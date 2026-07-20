@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab 14 - Counter_FSM
+vCounter_FSM
+2Counter_FSM.V
+!s110 1784564672
+!i10b 1
+!s100 :WOnnF1Og6a3EM`FP[GzR3
+I>JE[4R2TV;M8j<@o8a]?G1
+R0
+w1784564670
+8Counter_FSM.V
+FCounter_FSM.V
+!i122 0
+L0 1 40
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2025.2;82
+r1
+!s85 0
+31
+!s108 1784564672.000000
+!s107 Counter_FSM.V|
+!s90 Counter_FSM.V|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0 defaultOptions 1085333592
+n@counter_@f@s@m
