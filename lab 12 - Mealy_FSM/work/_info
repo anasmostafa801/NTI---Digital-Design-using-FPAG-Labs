@@ -1,0 +1,35 @@
+m255
+K4
+z2
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab 12 - Mealy_FSM
+vFSM
+2M_FSM.V
+!s110 1784558114
+!i10b 1
+!s100 YfiVE4d1fURY]L3J^z_8V0
+Ibd@D8O<46WFX[NZOJIGE90
+R0
+w1784558112
+8M_FSM.V
+FM_FSM.V
+!i122 0
+L0 1 35
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2025.2;82
+r1
+!s85 0
+31
+!s108 1784558114.000000
+!s107 M_FSM.V|
+!s90 M_FSM.V|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0 defaultOptions 1085333592
+n@f@s@m
