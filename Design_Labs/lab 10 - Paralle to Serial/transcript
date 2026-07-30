@@ -1,0 +1,33 @@
+# //  Questa Altera Starter FPGA Edition-64
+# //  Version 2025.2 win64 May 31 2025
+# //
+# // Unpublished work. Copyright 2025 Siemens
+# //
+# // This material contains trade secrets or otherwise confidential information
+# // owned by Siemens Industry Software Inc. or its affiliates (collectively,
+# // "SISW"), or its licensors. Access to and use of this information is strictly
+# // limited as set forth in the Customer's applicable agreements with SISW.
+# //
+# // This material may not be copied, distributed, or otherwise disclosed outside
+# // of the Customer's facilities without the express written permission of SISW,
+# // and may not be used in any way not expressly authorized by SISW.
+# //
+# ** Note: (vsim-220) 'C:\Users\user\AppData\Local\quartus\modelsim.ini' is used as the ini file.
+# ** Note: (vsim-223) The environment variable MODELSIM will be deprecated in future releases. Please use QSIM_INI instead.
+# vsim -voptargs="+acc" dut_tb -do "add wave clk rst load start Parallel_in DUT.parallel_in  Serial_out DUT.counter done; run -all" 
+# Start time: 19:21:36 on Jul 21,2026
+# ** Note: (vsim-3813) Design is being optimized due to module recompilation...
+# ** Warning: (vopt-10908) Some optimizations are turned off because the +acc switch is in effect.
+# ** Note: (vopt-220) 'C:\Users\user\AppData\Local\quartus\modelsim.ini' is used as the ini file.
+# ** Note: (vopt-223) The environment variable MODELSIM will be deprecated in future releases. Please use QSIM_INI instead.
+# ** Note: (vsim-12126) Error and warning message counts have been restored: Errors=0, Warnings=1.
+# Loading work.dut_tb(fast)
+# Loading work.DUT(fast)
+# add wave clk rst load start Parallel_in DUT.parallel_in  Serial_out DUT.counter done
+#  run -all
+# ** Note: $stop    : DUT_TB.V(27)
+#    Time: 1810 ns  Iteration: 0  Instance: /dut_tb
+# Break in Module dut_tb at DUT_TB.V line 27
+quit
+# End time: 19:22:20 on Jul 21,2026, Elapsed time: 0:00:44
+# Errors: 0, Warnings: 1

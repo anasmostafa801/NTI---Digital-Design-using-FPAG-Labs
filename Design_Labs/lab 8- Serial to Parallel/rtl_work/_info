@@ -1,0 +1,81 @@
+m255
+K4
+z2
+Z0 !s12c _opt
+Z1 !s99 nomlopt
+R0
+R1
+R0
+R1
+R0
+R1
+!s11f MIXED_VERSIONS
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z2 dC:/Users/user/Desktop/NTI_FPGA/NTI---Digital-Design-using-FPAG-Labs/lab 8- Serial to Parallel
+T_opt
+!i145 1
+!i144 0
+!s110 1784649496
+V5Mn0]HnElT;>`0Hh25B4]1
+04 6 4 work dut_tb fast 0
+=1-1cc10cbce035-6a5f9717-33a-67c8
+R1
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U2 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work +acc
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+OL;O;2025.2;82
+vDUT
+Z3 2DUT.V|dut_tb.V
+Z4 !s110 1784649485
+!i10b 1
+!s100 1=L9dC9Q]TVZEaM2SldQ[1
+IU:7WIl2^>kH4DOaT]68`F0
+R2
+w1784649477
+8DUT.V
+FDUT.V
+!i122 4
+L0 1 24
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2025.2;82
+r1
+!s85 0
+31
+Z7 !s108 1784649485.000000
+Z8 !s107 dut_tb.V|DUT.V|
+Z9 !s90 DUT.V|dut_tb.V|
+!i113 0
+Z10 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z11 tCvgOpt 0 defaultOptions 1085333592
+n@d@u@t
+vdut_tb
+R3
+R4
+!i10b 1
+!s100 WG1MHoH30bCfYK46@7PzX2
+I5U2]XYFD3QXz:AzCePfgJ3
+R2
+w1784648811
+8dut_tb.V
+Fdut_tb.V
+!i122 4
+L0 3 25
+R5
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+R11

@@ -1,0 +1,55 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2025.2 2025.05, May 31 2025
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/user/Desktop/NTI_FPGA/SV_Labs/Lab1/ex
+T_opt
+!i145 1
+!i144 0
+!s110 1785342008
+VEoC5EW<QPAoiWePlQmY8N1
+04 2 4 work ex fast 0
+=1-1cc10cbce035-6a6a2836-377-4868
+R0
+!s12f OEM100
+!s12b OEM100
+!s124 OEM10U1 
+!s135 nogc
+o-quiet -auto_acc_if_foreign -work work
+tCvgOpt 0 defaultOptions 1107585188
+n@_opt
+OL;O;2025.2;82
+R1
+vex
+2ex.sv
+DXx6 sv_std 3 std 0 22 @5XbY]_OacJl=`ToSm<M^0
+!s110 1785342240
+!i10b 1
+!s100 24JNBK_RT^2[_LR3V<IC]1
+I4AfDCT_2dEN86SkiD7eT43
+S1
+R1
+w1785341895
+8ex.sv
+Fex.sv
+!i122 1
+L0 1 21
+VDg1SIo80bB@j0V0VzS_@n1
+OL;L;2025.2;82
+r1
+!s85 0
+31
+!s108 1785342240.000000
+!s107 ex.sv|
+!s90 ex.sv|
+!i113 0
+o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+tCvgOpt 0 defaultOptions 1085333592

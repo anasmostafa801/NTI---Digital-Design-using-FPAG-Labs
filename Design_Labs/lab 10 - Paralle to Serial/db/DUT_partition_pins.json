@@ -1,0 +1,65 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Serial_out",
+					"strict" : false
+				},
+				{
+					"name" : "done",
+					"strict" : false
+				},
+				{
+					"name" : "rst",
+					"strict" : false
+				},
+				{
+					"name" : "load",
+					"strict" : false
+				},
+				{
+					"name" : "start",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[2]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[3]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[6]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[4]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[7]",
+					"strict" : false
+				},
+				{
+					"name" : "Parallel_in[5]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
